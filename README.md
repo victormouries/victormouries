@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @victormouries
-- 👀 I’m interested in building and fixing things
+- 👀 I’m interested in building and fixing physical objects
 
 <!---
 victormouries/victormouries is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
